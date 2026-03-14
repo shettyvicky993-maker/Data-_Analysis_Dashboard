@@ -86,5 +86,74 @@ This helped analyze *monthly sales trends*.
 
 ##Dashboard
 
+# 📊 Key Insights
+
+### Highest Sales Month
+
+* *March recorded the highest sales*
+* Orders: *2819 (9.08%)*
+* Revenue: *1,928,066 (9.10%)*
+
+### Lowest Sales Months
+
+* *November*
+* *December*
+
+These months had the lowest order volume and revenue.
+
+---
+
+### Gender Analysis
+
+Women made the majority of purchases.
+
+* Women Orders: *21,553 (69.42%)*
+* Women Revenue: *13,562,773 (64.05%)*
+
+---
+
+### Top Contributing States
+
+Top states generating sales:
+
+1. Maharashtra – *26.86%*
+2. Karnataka – *23.77%*
+3. Uttar Pradesh – *18.91%*
+4. Telangana – *15.08%*
+5. Tamil Nadu – *15.08%*
+
+---
+
+### Age & Gender Distribution
+
+Customer segments:
+
+* Adult Women – *34.59%*
+* Adult Men – *15.47%*
+* Teenage Women – *21.13%*
+* Teenage Men – *9.20%*
+* Senior Women – *13.70%*
+* Senior Men – *5.91%*
+
+---
+
+### Sales Channel
+
+* *Amazon contributes the highest sales*
+* Contribution: *35.48%*
+
+---
+
+# 💡 Business Recommendations
+
+Based on the analysis:
+
+* Focus marketing on *adult women customers*
+* Increase stock during *high demand months (Jan–Apr)*
+* Target high-performing states such as *Maharashtra, Karnataka, and Uttar Pradesh*
+* Promote products through *Amazon and online platforms*
+* Use *discounts and coupons* to increase sales
+* Improve marketing for *men's products* to increase overall revenue
+
 
 
