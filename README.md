@@ -85,5 +85,5 @@ A *Month column* was created from the order date using:
 This helped analyze *monthly sales trends*.
 
 ##Dashboard
-![Dashboard](Screenshot 2026-03-14 205225.png)
+
 
